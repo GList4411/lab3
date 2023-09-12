@@ -9,9 +9,9 @@ const int INT1 = 15;
 const int INT2 = 20; 
 int main()
 {
-    cout<<"Sum of"<<INT1 <<"and"<<INT2<<"is"<<INT1+INT2 << endl;
+    cout<<"Sum of "<<INT1 <<" and "<<INT2<<" is "<<INT1+INT2 << endl;
     
-    cout<<"Product is"<<INT1*INT2<<endl;
+    cout<<"Product is "<<INT1*INT2<<endl;
     
     if(INT1<INT2) 
     {

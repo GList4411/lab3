@@ -14,9 +14,9 @@ int main()
   int num2;  
   
   cout <<" Enter two integers   ";
-  cin >> num1 >> Num2;
+  cin >> num1 >> num2;
   
-  cout<<" The product of "<< num1 << " and " << num2 << " is "
+  cout<<" The product of "<< num1 << " and " << num2 << " is ";
     cout<< num1 * num2 << endl;
 
   return (EXIT_SUCCESS);
